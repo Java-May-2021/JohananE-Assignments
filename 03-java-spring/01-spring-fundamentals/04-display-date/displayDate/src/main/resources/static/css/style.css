@@ -1,0 +1,14 @@
+#container{
+	width: 800px;
+	height : 800px;
+}
+#header{
+	text-align:center;
+	padding-top: 15px;
+}
+.date{
+	color: blue;
+}
+.time{
+	color: green;
+}
