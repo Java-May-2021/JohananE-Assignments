@@ -1,0 +1,9 @@
+#container{
+	height: 700px;
+	width: 600px
+}
+#survey{
+	margin: 80px;
+	border: 1px solid black;
+	padding: 10px;
+}
